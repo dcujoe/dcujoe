@@ -11,4 +11,7 @@
 
 
 I am currently increasing in-depth knowledge using the following languages
-![react](https://user-images.githubusercontent.com/50689568/197574371-8284a903-7e84-405e-9179-19aefc7be3b5.jpeg) ![nextjs](https://user-images.githubusercontent.com/50689568/197574477-e5a3509d-768b-480a-95c1-2bda295936e8.png)![python](https://user-images.githubusercontent.com/50689568/197574509-13d1bd4e-a842-4394-a5ef-6d9dcd03cc43.png)
+
+![rsz_python](https://user-images.githubusercontent.com/50689568/197575995-496961c1-7a07-4ec8-ba8b-2eae88373eaf.png)
+![react_resize](https://user-images.githubusercontent.com/50689568/197576019-3400800b-6707-4d5b-934c-d85d2e375d05.jpeg)
+![nextjs](https://user-images.githubusercontent.com/50689568/197576029-b0f9f042-dda2-45dd-93d6-8880f3b82329.png)
