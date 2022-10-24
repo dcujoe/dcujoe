@@ -16,5 +16,6 @@
 
 ![nextjs](https://user-images.githubusercontent.com/50689568/197578470-203d17cd-e537-4c2f-9c17-e5f456c844fe.png)
 
-![python](https://user-images.githubusercontent.com/50689568/197579656-db23fd5f-8c8a-403e-8d2e-7f6274e9179b.jpeg)
+![rsz_1python](https://user-images.githubusercontent.com/50689568/197579757-8488cdef-65ac-4eec-922e-ba1e26bca0c5.jpeg)
+
 
