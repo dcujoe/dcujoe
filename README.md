@@ -14,8 +14,6 @@
 
 ![react](https://user-images.githubusercontent.com/50689568/197578453-db81a9f8-5c84-42dd-bce3-b9c4abe297b1.png)
 
-![nextjs](https://user-images.githubusercontent.com/50689568/197578470-203d17cd-e537-4c2f-9c17-e5f456c844fe.png)
-
 ![rsz_1python](https://user-images.githubusercontent.com/50689568/197579757-8488cdef-65ac-4eec-922e-ba1e26bca0c5.jpeg)
 
 
