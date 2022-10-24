@@ -10,8 +10,8 @@
 
 
 
-I am currently increasing in-depth knowledge using the following languages
+  Currently creating exciting applications with these  languages:
 
-![rsz_python](https://user-images.githubusercontent.com/50689568/197575995-496961c1-7a07-4ec8-ba8b-2eae88373eaf.png)
-![react_resize](https://user-images.githubusercontent.com/50689568/197576019-3400800b-6707-4d5b-934c-d85d2e375d05.jpeg)
-![nextjs](https://user-images.githubusercontent.com/50689568/197576029-b0f9f042-dda2-45dd-93d6-8880f3b82329.png)
+![react](https://user-images.githubusercontent.com/50689568/197578453-db81a9f8-5c84-42dd-bce3-b9c4abe297b1.png)
+
+![nextjs](https://user-images.githubusercontent.com/50689568/197578470-203d17cd-e537-4c2f-9c17-e5f456c844fe.png)
