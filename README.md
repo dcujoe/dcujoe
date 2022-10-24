@@ -14,6 +14,6 @@
 
 ![react](https://user-images.githubusercontent.com/50689568/197578453-db81a9f8-5c84-42dd-bce3-b9c4abe297b1.png)
 
-![rsz_1python](https://user-images.githubusercontent.com/50689568/197579757-8488cdef-65ac-4eec-922e-ba1e26bca0c5.jpeg)
+
 
 
