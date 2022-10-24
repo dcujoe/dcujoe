@@ -22,8 +22,8 @@ console.log (
 - 💞️ I’m looking to collaborate on exciting Javascript functionalities and Ecommerce platforms
 - 📫 How to reach me https://www.linkedin.com/in/daniel-agbenyega-2a137175/ or dcujoe@gmail.com
 - I code daily and looking forward to learning every new day :-)
-- Welcome me to your organisation"
-)
+- Welcome me to your organisation
+)"
 
 }
 
