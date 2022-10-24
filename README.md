@@ -3,7 +3,8 @@
 const interested = {
   Name: Daniel Agbenyega,
   Coding_years: 5,
-  favourite_languages: [
+  favourite_languages: 
+  [
              language1: python,
              language2: Javascript,
              language3: ReactJS,
@@ -12,7 +13,6 @@ const interested = {
 if (interested) {
 console.log (
            "It is great to have you here!!!
-
 
 
 - 👀 I’m interested in Web development for creating React JS & Python applications
