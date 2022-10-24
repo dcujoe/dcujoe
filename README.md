@@ -1,4 +1,17 @@
-- 👋 Welcome , It is great to have you here!!!
+- 👋 Export default function Welcome = () => {
+
+const interested = {
+  Name: Daniel Agbenyega,
+  Coding_years: 5,
+  favourite_languages: [
+             language1: python,
+             language2: Javascript,
+             language3: ReactJS,
+  ]
+
+if (interested) {
+console.log (
+           "It is great to have you here!!!
 
 
 
@@ -6,8 +19,10 @@
 - 🌱 I’m currently learning in depth Javascript concepts and creating exciting web applications with python 
 - 💞️ I’m looking to collaborate on exciting Javascript functionalities and Ecommerce platforms
 - 📫 How to reach me https://www.linkedin.com/in/daniel-agbenyega-2a137175/ or dcujoe@gmail.com
-- I code daily and looking forward to learning every new day :-)
+- I code daily and looking forward to learning every new day :-)"
+)
 
+}
 
 
   Currently creating exciting applications with these  languages:
