@@ -32,7 +32,5 @@ console.log (
 
 ![react](https://user-images.githubusercontent.com/50689568/197578453-db81a9f8-5c84-42dd-bce3-b9c4abe297b1.png)
 
-![download](https://user-images.githubusercontent.com/50689568/198386436-269f2717-d1f3-407c-9f97-d34ea8f37f50.png)
-
 
 
